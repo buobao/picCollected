@@ -1,0 +1,24 @@
+{
+  "name": "piccollected",
+  "version": "1.0.0",
+  "description": "pic collect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buobao/picCollected.git"
+  },
+  "keywords": [
+    "nodejs",
+    "picture",
+    "collected"
+  ],
+  "author": "buobao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buobao/picCollected/issues"
+  },
+  "homepage": "https://github.com/buobao/picCollected#readme"
+}
